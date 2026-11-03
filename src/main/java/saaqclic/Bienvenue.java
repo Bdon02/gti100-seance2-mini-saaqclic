@@ -5,6 +5,6 @@ public class Bienvenue {
 
     public static String message() {
         // TODO Mission 0 : retournez exactement le texte Bienvenue sur mini-SAAQclic
-        return "TODO";
+        return "Bienvenue sur mini-SAAQclic";
     }
 }
